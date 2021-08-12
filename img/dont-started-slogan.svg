@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="100" viewBox="0 0 50 100">
+  <g id="dont-started-slogan" transform="translate(-650 -291)">
+    <path id="Rectangle_216" data-name="Rectangle 216" d="M10,0H90a10,10,0,0,1,10,10V50a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(650 391) rotate(-90)" fill="#fff"/>
+    <text id="لم_تبدأ_بعد" data-name="لم تبدأ بعد" transform="translate(680 306) rotate(-90)" fill="#c1392b" font-size="14" font-family="Montserrat-Arabic-Regular, Montserrat-Arabic"><tspan x="-70.994" y="0">لم تبدأ بعد</tspan></text>
+  </g>
+</svg>
